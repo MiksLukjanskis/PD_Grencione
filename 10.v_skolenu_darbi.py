@@ -2,27 +2,27 @@
 
 #1)Andersone Linda Elva
 
-#2)Apsîtis Edvards
+#2)ApsÃ®tis Edvards
 
-#3)Èeròevièa Letîcija Lîna
+#3)ÃˆerÃ²eviÃ¨a LetÃ®cija LÃ®na
 
-#4)Drozdova Miğelle
+#4)Drozdova MiÃ°elle
 
-#5)Karlinskis Renârs
+#5)Karlinskis RenÃ¢rs
 
 #6)Lukjanskis Miks Patriks
+print(cos(radians(60)+fmod(15,2)))
+#7)LukÃ°s Lauris
 
-#7)Lukğs Lauris
+#8)MÃ¢lkalns Kristaps
 
-#8)Mâlkalns Kristaps
+#9)RuÃ²Ã¬is Kristaps
 
-#9)Ruòìis Kristaps
+#10)SegliÃ²Ã° JÃ§kabs
 
-#10)Segliòğ Jçkabs
+#11)SerÃ¾ante Agate
 
-#11)Serşante Agate
-
-#12)Voiteğonoks Aleksandrs
+#12)VoiteÃ°onoks Aleksandrs
 
 #13)Zvaigzne Gustavs Henrijs
 
